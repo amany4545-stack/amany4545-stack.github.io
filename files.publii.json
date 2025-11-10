@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "cc979a368f46c921d55166ad61ce6a0f"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "4155c725f7e0479fb5be2c85862cde62"
+    },
+    {
+        "path": "begin-your-spiritual-journey-with-quran-recitation-classes-online",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/begin-your-spiritual-journey-with-quran-recitation-classes-online/index.html",
+        "type": "file",
+        "md5": "81fe6d11524e1b417ed87a198578f3d3"
+    },
+    {
+        "path": "explore-quran-mastery-with-a-professional-learn-quran-online-academy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/explore-quran-mastery-with-a-professional-learn-quran-online-academy/index.html",
+        "type": "file",
+        "md5": "a7d10a19e024f021fa96ad692f864880"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "281a80f2549d536d28b8fcbbd325ae49"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "4bbf2717e500c97f746e21511e00c632"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "7e6d91bb8340038526dee3fd9acb7350"
+    },
+    {
+        "path": "master-the-art-of-tilawah-with-quran-recitation-classes-online",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/master-the-art-of-tilawah-with-quran-recitation-classes-online/index.html",
+        "type": "file",
+        "md5": "30c15e9028ba463b560cc5e19d72a958"
+    },
+    {
+        "path": "mastering-quran-studies-through-learn-quran-online-academy-programs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mastering-quran-studies-through-learn-quran-online-academy-programs/index.html",
+        "type": "file",
+        "md5": "bb65bbf0873b6e77888fad26ab212147"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-8.jfif",
+        "type": "file",
+        "md5": "34f4dec5abcf0f1ce35fa867431b2b5e"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "9ccea153c2975fe748c603991686525c"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "c615e71acfcb4b30a6b8920cb1891d7d"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "15303d9d940bd236ce15a8b27691e01c"
+    },
+    {
+        "path": "transform-your-quran-learning-journey-with-a-dedicated-learn-quran-online-academy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-quran-learning-journey-with-a-dedicated-learn-quran-online-academy/index.html",
+        "type": "file",
+        "md5": "3b48ccc9ddf2a450822dc2f51b46f021"
+    }
+]
